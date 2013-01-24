@@ -1,0 +1,35 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#container {
+    min-height: 100%;
+    position: relative;
+}
+
+#header {
+    padding: 10px;
+}
+
+#body {
+    padding: 10px;
+    padding-bottom: 50px;   /* Height of the footer */
+}
+
+#footer {
+    bottom: 0;
+    font-family: monospace;
+    font-size: 0.8em;
+    height: 50px;   /* Height of the footer */
+    position: absolute;
+    text-align: center;
+    width: 100%;
+}
+
+h1.header {
+	font-family: Helvetica, Verdana, Arial, sans-serif;
+	font-size: 4em;
+	text-align: center;
+}

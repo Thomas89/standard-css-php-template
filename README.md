@@ -1,7 +1,7 @@
-**TITLE:**      Project Name
-**CREATOR:**    Angelo Stavrow
-**VERSION:**    0.1 beta
-**DATE:**       contact@angelostavrow.com
+**TITLE:**      Project Name<br>
+**CREATOR:**    Angelo Stavrow<br>
+**VERSION:**    0.1 beta<br>
+**DATE:**       contact@angelostavrow.com<br>
 
 
 ### DESCRIPTION
@@ -10,7 +10,7 @@ Description of the project goes here.
 
 ### LICENSE
 
-GNU/GPLv2
+[GNU/GPLv2](http://www.gnu.org/licenses/gpl-2.0.html)
 
 ### WARNING
 
